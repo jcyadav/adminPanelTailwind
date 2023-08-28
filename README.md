@@ -1,4 +1,4 @@
 # adminPanelTailwind
 I created Admin Panel using pure Tailwind css
 
-![Screenshot (610)](https://github.com/jcyadav/adminPanelTailwind/assets/82964912/f1bd1fa2-ffd2-4163-b7f6-e5aec652e8f0)
+![Screenshot (611)](https://github.com/jcyadav/adminPanelTailwind/assets/82964912/5073b1c4-8209-4f19-a8d2-a282442f44a5)
